@@ -3,8 +3,8 @@
 <p align = "left">
   <strong> <img src = "img\eua.png" width = 2.0% height = 2.0% > View my profile in English: </strong>
 <br>
-  <a href = "https://github.com/ithanamaral/ithanamaral/blob/main/Readme_translate.md">
-    <img src = "https://img.shields.io/badge/Português-Clique%20aqui-white.svg" alt = "portuguese" /> 
+  <a href = "https://github.com/ithanamaral/ithanamaral/blob/main/Readme.md">
+    <img src = "https://img.shields.io/badge/Ingles-Clique%20aqui-white.svg" alt = "inglês" /> 
   </a>
 </p>
 
