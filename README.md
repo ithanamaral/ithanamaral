@@ -17,7 +17,6 @@ Desenvolvedor apaixonado por *tecnologia, focado em criar soluções inovadoras 
 
 ### 🧠 *Currently Learning:*
 - Inteligência Artificial 🤖
-- Machine Learning 📈
 - Node.js 🔧
 - Algortimos e Estrutura de Dados
 
