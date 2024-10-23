@@ -1,8 +1,8 @@
 
-# 👨‍💻 *Hello, World!*  I'm Íthan 
+# 👨‍💻 *Olá, Mundo!*  I'm Íthan 
 
 ### 🚀 About Me:
-Desenvolvedor apaixonado por *tecnologia, focado em criar soluções inovadoras e eficientes. Atualmente trabalhando no **SERPRO* 🖥️ e estudando na *UFOP* 🎓. Tenho habilidades em **C**, **React**, e **JavaScript**, além de uma forte curiosidade por novos frameworks e paradigmas.
+Desenvolvedor apaixonado por **tecnologia**, focado em criar soluções inovadoras e eficientes. Atualmente trabalhando no **SERPRO* 🖥️ e estudando na *UFOP* 🎓. Tenho habilidades em **C**, **React**, e **JavaScript**, além de uma forte curiosidade por novos frameworks e paradigmas.
 
 ---
 
@@ -35,7 +35,6 @@ Desenvolvedor apaixonado por *tecnologia, focado em criar soluções inovadoras 
 ### 📊 *GitHub Stats:*
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ithanamaral&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 
