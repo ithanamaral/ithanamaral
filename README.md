@@ -1,5 +1,5 @@
 
-# 👨‍💻 *Hello Wolrd!*  I'm Íthan 
+# 👨‍💻 *Hello Wolrd!*  I'm Íthan 👋🏿
 
 <p align = "left">
   <strong> <img src = "img/br.png" width = 2.0% height = 2.0% > View my profile in Portuguese: </strong>
