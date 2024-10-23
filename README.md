@@ -2,7 +2,7 @@
 # 👨‍💻 *Hello Wolrd!*  I'm Íthan 
 
 <p align = "left">
-  <strong> <img src = "img\br.png" width = 2.0% height = 2.0% > View my profile in Portuguese: </strong>
+  <strong> <img src = "img/br.png" width = 2.0% height = 2.0% > View my profile in Portuguese: </strong>
 <br>
   <a href = "https://github.com/ithanamaral/ithanamaral/blob/main/Readme_translate.md">
     <img src = "https://img.shields.io/badge/Português-Clique%20aqui-white.svg" alt = "portuguese" /> 
@@ -10,7 +10,9 @@
 </p>
 
 <br>
-### 🚀 About Me:
+
+### 🚀 *About Me:*
+
 Developer passionate about **technology**, focused on creating innovative and efficient solutions. Currently working at **SERPRO** 🖥️ and studying at *UFOP* 🎓. I have skills in **C**, **React**, and **JavaScript**, as well as a strong curiosity for new frameworks and paradigms.
 
 ---
