@@ -7,11 +7,7 @@ Desenvolvedor apaixonado por *tecnologia, focado em criar soluções inovadoras 
 ---
 
 ### 🔧 *Tech Stack:*
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,c,java,vscode)](https://skillicons.dev)
 
 ---
 
