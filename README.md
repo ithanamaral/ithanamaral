@@ -23,7 +23,7 @@ Desenvolvedor apaixonado por *tecnologia, focado em criar soluções inovadoras 
 ---
 
 ### 🔗 *Connect With Me:*
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/ithan-p-amaral](https://www.linkedin.com/in/ithan-p-amaral-4b8751262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/ithan-p-amaral-4b8751262])
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/ithanamaral)
 
 ---
