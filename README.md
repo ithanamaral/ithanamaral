@@ -1,8 +1,9 @@
 
-# 👨‍💻 *Olá, Mundo!*  I'm Íthan 
+# 👨‍💻 *Hello Wolrd!*  I'm Íthan 
+
 
 ### 🚀 About Me:
-Desenvolvedor apaixonado por **tecnologia**, focado em criar soluções inovadoras e eficientes. Atualmente trabalhando no **SERPRO** 🖥️ e estudando na *UFOP* 🎓. Tenho habilidades em **C**, **React**, e **JavaScript**, além de uma forte curiosidade por novos frameworks e paradigmas.
+Developer passionate about **technology**, focused on creating innovative and efficient solutions. Currently working at **SERPRO** 🖥️ and studying at *UFOP* 🎓. I have skills in **C**, **React**, and **JavaScript**, as well as a strong curiosity for new frameworks and paradigms.
 
 ---
 
@@ -12,9 +13,9 @@ Desenvolvedor apaixonado por **tecnologia**, focado em criar soluções inovador
 ---
 
 ### 🧠 *Currently Learning:*
-- Inteligência Artificial 🤖
+- Artificial intelligence 🤖
 - Node.js 🔧
-- Algortimos e Estrutura de Dados
+- Algorithms and Data Structure
 
 ---
 
@@ -26,8 +27,8 @@ Desenvolvedor apaixonado por **tecnologia**, focado em criar soluções inovador
 
 ### 💼 *My Work:*
 
-- [Projeto 1](https://github.com/seu-perfil/repo1) - Neste projeto eu criei um formulário de colaboradores em React.
-- [Projeto 2](https://github.com/seu-perfil/repo2) - Neste outro meu primeiro projeto front-end vendido.
+- [Projeto 1](https://github.com/seu-perfil/repo1) - In this project I created a collaborator form in React.
+- [Projeto 2](https://github.com/seu-perfil/repo2) - In this other my first front-end project sold.
 
 ---
 
