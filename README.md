@@ -1,5 +1,5 @@
 
-# 👨‍💻 *Hello, World!*   I'm Íthan 
+# 👨‍💻 *Hello, World!*  I'm Íthan 
 
 ### 🚀 About Me:
 Desenvolvedor apaixonado por *tecnologia, focado em criar soluções inovadoras e eficientes. Atualmente trabalhando no **SERPRO* 🖥️ e estudando na *UFOP* 🎓. Tenho habilidades em **C**, **React**, e **JavaScript**, além de uma forte curiosidade por novos frameworks e paradigmas.
