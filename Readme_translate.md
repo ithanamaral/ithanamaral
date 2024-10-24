@@ -36,7 +36,7 @@ Developer passionate about **technology**, focused on creating innovative and ef
 ### 💼 My Work:
 
 - [Projeto 1](https://github.com/seu-perfil/repo1) - In this project I created a collaborator form in React.
-- [Projeto 2](https://github.com/seu-perfil/repo2) - In this other my first Front-End project sold.
+- [Projeto 2](https://github.com/ithanamaral/PIBARE) - In this other my first Front-End project sold.
 
 ---
 
