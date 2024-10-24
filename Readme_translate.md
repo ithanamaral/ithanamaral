@@ -1,7 +1,7 @@
 # 👨‍💻 Hello Wolrd!  I'm Íthan 👋🏿
 
 <p align = "left">
-  <strong> <img src = "img/br.png" width = 2.0% height = 2.0% > View my profile in Portuguese: </strong>
+  <strong> <img src = "img/br.png" width = 2vw height = 2vh > View my profile in Portuguese: </strong>
 <br>
   <a href = "https://github.com/ithanamaral/ithanamaral/blob/main/README.md">
     <img src = "https://img.shields.io/badge/Português-Clique%20aqui-white.svg" alt = "portuguese" /> 
