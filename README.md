@@ -4,7 +4,7 @@
 <p align = "left">
   <strong> <img src = "img\eua.png" width = 2.0% height = 2.0% > View my profile in English: </strong>
 <br>
-  <a href = "https://github.com/ithanamaral/ithanamaral/blob/main/README.md">
+  <a href = "https://github.com/ithanamaral/ithanamaral/blob/main/Readme_translate.md">
     <img src = "https://img.shields.io/badge/Ingles-Clique%20aqui-white.svg" alt = "inglês" /> 
   </a>
 </p>
@@ -13,7 +13,7 @@
 
  ### 🚀 Sobre Mim:
  
-Developer passionate about *technology, focused on creating innovative and efficient solutions. Currently working at **SERPRO* 🖥️ and studying at UFOP 🎓. I have skills in *C, **React, and **JavaScript*, as well as a strong curiosity for new frameworks and paradigms.
+Desenvolvedor apaixonado por **tecnologia**, focado em criar soluções inovadoras e eficazes. Atualmente trabalhando na **SERPRO** 🖥️ e estudando na UFOP 🎓. Eu tenho skills em **C**, **React**, **JavaScript** e **Java** além de forte curiosidade por novos frames e paradigmas.
 
 ---
 
