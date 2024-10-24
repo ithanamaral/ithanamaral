@@ -8,11 +8,10 @@
   </a>
 </p>
 
-<br>
 
 ### 🚀 About Me:
 
-Developer passionate about *technology, focused on creating innovative and efficient solutions. Currently working at **SERPRO* 🖥️ and studying at UFOP 🎓. I have skills in *C, **React, and **JavaScript*, as well as a strong curiosity for new frameworks and paradigms.
+Developer passionate about **technology**, focused on creating innovative and efficient solutions. Currently working at **SERPRO** 🖥️ and studying at UFOP 🎓. I have skills in **C**, **React**, **JavaScript** and **Java** as well as a strong curiosity for new frameworks and paradigms.
 
 ---
 
