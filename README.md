@@ -37,7 +37,7 @@ Desenvolvedor apaixonado por **tecnologia**, focado em criar soluções inovador
 ### 💼 Meus projetos principais:
 
 - [Projeto 1](https://github.com/ithanamaral/Organo) - Nesse projeto, criei um formulário dinêmico com React.
-- [Projeto 2](https://github.com/seu-perfil/repo2) - Esse projeto,foi meu primeiro de Front-End e está em constante evolução.
+- [Projeto 2](https://github.com/ithanamaral/PIBARE) - Esse projeto,foi meu primeiro de Front-End e está em constante evolução.
 
 ---
 
