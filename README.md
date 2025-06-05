@@ -17,7 +17,7 @@ Desenvolvedor apaixonado por **tecnologia**, focado em criar soluções inovador
 ---
 
 ### 🔧 Minhas Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,c,java,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,c,java,vscode,python)](https://skillicons.dev)
 
 ---
 
