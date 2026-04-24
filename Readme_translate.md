@@ -11,12 +11,12 @@
 
 ### 🚀 About Me:
 
-Developer passionate about **technology**, focused on creating innovative and efficient solutions. Currently working at **SERPRO** 🖥️ and studying at UFOP 🎓. I have skills in **C**, **React**, **JavaScript** and **Java** as well as a strong curiosity for new frameworks and paradigms.
+Developer passionate about **technology**, focused on creating innovative and effective solutions. Currently working at **SERPRO** 🖥️ and studying at UFOP 🎓. I have skills in **TypeScript**, **React**, **JavaScript** and **Python** as well as a strong curiosity for new frameworks, languages ​​and architectures.
 
 ---
 
 ### 🔧 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,c,java,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,html,css,react,python,vscode)](https://skillicons.dev)
 
 ---
 
