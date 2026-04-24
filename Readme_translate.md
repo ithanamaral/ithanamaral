@@ -38,7 +38,13 @@ Developer passionate about **technology**, focused on creating innovative and ef
 - **Projects/Performance in BRICS** - Experience involving the BRICS bloc (Full Stack).
 
 ---
+### 🖥️ My principal projects:
 
+- [Hanower](https://github.com/ithanamaral/Hanouer) - One of my most recent Full Stack projects exploring fastAPI to a petshop commerce.
+- [Clínica](https://github.com/ithanamaral/Clinica_EloCare) - System aimed at clinic management in the healthcare sector.
+- [Pibare New - Institucional](https://github.com/ithanamaral/pibare_new) - My first freelance institutional website.
+
+---
 
 ### 📊 GitHub Stats:
 
