@@ -27,16 +27,15 @@ Developer passionate about **technology**, focused on creating innovative and ef
 
 ---
 
-### 🔗 Connect With Me:
+### 🔗 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ithan-p-amaral-4b8751262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/ithanamaral)
 
 ---
+### 💼 My Experience:
 
-### 💼 My Work:
-
-- [Projeto 1](https://github.com/ithanamaral/Organo) - In this project I created a collaborator form in React.
-- [Projeto 2](https://github.com/ithanamaral/PIBARE) - In this other my first Front-End project sold.
+- **SERPRO (Federal Government)** - Working on the development of technological and innovative solutions for the government (Full Stack).
+- **Projects/Performance in BRICS** - Experience involving the BRICS bloc (Full Stack).
 
 ---
 
