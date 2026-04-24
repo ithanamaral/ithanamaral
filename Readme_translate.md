@@ -23,7 +23,7 @@ Developer passionate about **technology**, focused on creating innovative and ef
 ### 🧠 Currently Learning:
 - Artificial intelligence 🤖
 - Node.js 🔧
-- Algorithms and Data Structure
+- Design Pattern
 
 ---
 
